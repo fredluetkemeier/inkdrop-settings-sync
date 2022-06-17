@@ -1,0 +1,13 @@
+{
+  "name": "inkdrop-settings-sync",
+  "main": "./lib/inkdrop-settings-sync",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/inkdrop-settings-sync",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
