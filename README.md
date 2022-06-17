@@ -1,0 +1,1 @@
+# inkdrop-settings-sync
