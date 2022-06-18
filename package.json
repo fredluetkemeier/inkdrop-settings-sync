@@ -15,9 +15,7 @@
         "inkdrop": "^5.x"
     },
     "dependencies": {
-        "gist-client": "^1.1.1",
         "open": "^8.4.0",
-        "poll": "^3.2.0",
         "query-string": "^7.1.1"
     }
 }
