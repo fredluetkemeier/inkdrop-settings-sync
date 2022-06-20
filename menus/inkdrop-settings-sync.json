@@ -1,26 +1,4 @@
 {
-  "context-menu": {
-    ".CodeMirror": [
-      {
-        "label": "Toggle inkdrop-settings-sync",
-        "command": "inkdrop-settings-sync:toggle"
-      }
-    ]
-  },
-  "menu": [
-    {
-      "label": "Plugins",
-      "submenu": [
-        {
-          "label": "inkdrop-settings-sync",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "inkdrop-settings-sync:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    "context-menu": {},
+    "menu": []
 }
