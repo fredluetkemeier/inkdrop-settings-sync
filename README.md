@@ -1,1 +1,1 @@
-# inkdrop-settings-sync
+# Settings Sync

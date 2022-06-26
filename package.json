@@ -1,5 +1,5 @@
 {
-    "name": "inkdrop-settings-sync",
+    "name": "settings-sync",
     "main": "./lib/main",
     "version": "0.1.0",
     "description": "Sync your plugins and settings as a GitHub gist!",
