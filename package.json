@@ -15,6 +15,7 @@
         "inkdrop": "^5.x"
     },
     "dependencies": {
+        "dayjs": "^1.11.3",
         "open": "^8.4.0",
         "query-string": "^7.1.1"
     }
