@@ -1,0 +1,6 @@
+{
+    "needsAuth": "needsAuth",
+    "syncing": "syncing",
+    "synced": "synced",
+    "error": "error"
+}
