@@ -3,5 +3,5 @@
     "gistId": "gistId",
     "githubAccessToken": "githubAccessToken",
     "hasBeenWelcomed": "hasBeenWelcomed",
-    "status": "status"
+    "syncStatus": "syncStatus"
 }
