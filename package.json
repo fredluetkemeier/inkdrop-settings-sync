@@ -2,7 +2,7 @@
     "name": "settings-sync",
     "main": "./lib/main",
     "version": "0.1.1",
-    "description": "Sync your plugins and settings as a GitHub gist!",
+    "description": "Sync your plugins and settings in a GitHub gist!",
     "keywords": [
         "sync",
         "settings",
