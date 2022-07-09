@@ -1,7 +1,7 @@
 {
-    "lastSynced": "lastSynced",
-    "gistId": "gistId",
-    "githubAccessToken": "githubAccessToken",
-    "hasBeenWelcomed": "hasBeenWelcomed",
-    "syncStatus": "syncStatus"
+    "lastSynced": "last-synced",
+    "gistId": "gist-id",
+    "githubAccessToken": "github-access-token",
+    "hasBeenWelcomed": "has-been-welcomed",
+    "syncStatus": "sync-status"
 }
