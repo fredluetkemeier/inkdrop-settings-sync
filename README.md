@@ -1,6 +1,6 @@
 # Settings Sync
 
-This plugin lets you sync your Inkdrop settings in a Github Gist.
+Sync your plugins and settings in a GitHub gist!
 
 ### Currently supported
 
