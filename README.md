@@ -6,6 +6,7 @@ Sync your plugins and settings in a GitHub gist!
 
 -   Installed plugins
 -   Active themes
+-   Acrylic Translucent Background
 
 ## Options
 
