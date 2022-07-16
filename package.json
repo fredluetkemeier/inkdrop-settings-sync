@@ -1,7 +1,7 @@
 {
     "name": "settings-sync",
     "main": "./lib/main",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Sync your plugins and settings in a GitHub gist!",
     "keywords": [
         "sync",
