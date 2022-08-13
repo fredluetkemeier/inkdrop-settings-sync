@@ -9,10 +9,17 @@
         }
     }
 }
-.test {
+.sync-banner {
     padding: 10px 16px;
     border-top: var(--sidebar-sync-status-view-border-top);
     display: flex;
     justify-content: space-between;
-    background-color: green;
+    &-text {
+        font-size: 12px;
+        color: var(--sidebar-menu-section-color);
+        display: inline-flex;
+        align-items: center;
+    }
+    &-synced {
+    }
 }
