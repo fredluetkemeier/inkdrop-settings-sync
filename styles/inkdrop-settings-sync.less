@@ -1,14 +1,13 @@
 .settings-sync {
-    &-auth {
-        &-container {
-            display: flex;
-        }
+    &-container {
+        display: flex;
+    }
 
-        &-code {
-            justify-content: center;
-        }
+    &-code {
+        justify-content: center;
     }
 }
+
 .sync-banner {
     padding: 10px 16px;
     border-top: var(--sidebar-sync-status-view-border-top);
@@ -20,6 +19,39 @@
         display: inline-flex;
         align-items: center;
     }
-    &-synced {
-    }
+}
+
+.status {
+    padding: 0px 4px;
+    border-radius: 8px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.auth-needed {
+    border: 1px solid #f5cc00;
+    color: #f5cc00;
+    cursor: pointer;
+}
+
+.syncing {
+    background: linear-gradient(
+        90deg,
+        rgba(134, 0, 217, 1) 0%,
+        rgba(0, 62, 215, 1) 100%
+    );
+}
+
+.synced {
+    background: linear-gradient(
+        90deg,
+        rgba(36, 200, 0, 1) 0%,
+        rgba(0, 196, 193, 1) 100%
+    );
+    color: #000;
+}
+
+.error {
+    border: 1px solid #c80000;
+    color: #c80000;
 }
