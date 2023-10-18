@@ -9,7 +9,7 @@
         "plugins",
         "utility"
     ],
-    "repository": "https://github.com/fredluetkemeier/inkdrop-settings-sync",
+    "repository": "git@github.com:fredluetkemeier/inkdrop-settings-sync.git",
     "license": "MIT",
     "engines": {
         "inkdrop": "^5.x"
