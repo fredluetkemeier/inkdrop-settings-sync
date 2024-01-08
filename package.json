@@ -1,22 +1,24 @@
 {
     "name": "settings-sync",
     "main": "./lib/main",
-    "version": "0.1.0",
-    "description": "Sync your plugins and settings as a GitHub gist!",
+    "version": "1.0.0",
+    "description": "Sync your plugins and settings in a GitHub gist!",
     "keywords": [
         "sync",
         "settings",
         "plugins",
         "utility"
     ],
-    "repository": "https://github.com/inkdropapp/inkdrop-settings-sync",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:fredluetkemeier/inkdrop-settings-sync.git"
+    },
     "license": "MIT",
     "engines": {
         "inkdrop": "^5.x"
     },
     "dependencies": {
-        "dayjs": "^1.11.3",
-        "open": "^8.4.0",
-        "query-string": "^7.1.1"
+        "dayjs": "^1.11.10",
+        "ramda": "^0.29.1"
     }
 }
